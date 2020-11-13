@@ -1,0 +1,3 @@
+yesterday I reviewed a ticket which was reported by a customer, it was not able to see in global catalogs some tags that were configured in RMC
+today I am reviewing a ticket related with Empty list in broker regions dropdown menu is displayed on some RMC resources after configured a broker
+I have another assignment and will review after this call
